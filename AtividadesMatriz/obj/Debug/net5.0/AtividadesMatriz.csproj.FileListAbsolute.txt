@@ -1,0 +1,16 @@
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\bin\Debug\net5.0\AtividadesMatriz.exe
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\bin\Debug\net5.0\AtividadesMatriz.deps.json
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\bin\Debug\net5.0\AtividadesMatriz.runtimeconfig.json
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\bin\Debug\net5.0\AtividadesMatriz.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\bin\Debug\net5.0\AtividadesMatriz.dll
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\bin\Debug\net5.0\ref\AtividadesMatriz.dll
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\bin\Debug\net5.0\AtividadesMatriz.pdb
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\obj\Debug\net5.0\AtividadesMatriz.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\obj\Debug\net5.0\AtividadesMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\obj\Debug\net5.0\AtividadesMatriz.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\obj\Debug\net5.0\AtividadesMatriz.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\obj\Debug\net5.0\AtividadesMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\obj\Debug\net5.0\AtividadesMatriz.dll
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\obj\Debug\net5.0\ref\AtividadesMatriz.dll
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\obj\Debug\net5.0\AtividadesMatriz.pdb
+C:\Users\Leonardo\Desktop\AtividadesMatriz\AtividadesMatriz\obj\Debug\net5.0\AtividadesMatriz.genruntimeconfig.cache
